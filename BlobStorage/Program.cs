@@ -29,6 +29,7 @@ namespace BlobStorage
             //delete file
             //blobHelper.DeleteFile("kyletest", "test.png");
 
+            //-------------------
             //upload large file
             //var sw = new Stopwatch();
             //sw.Reset();
